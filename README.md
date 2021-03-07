@@ -1,2 +1,1 @@
-# themeforest-journal-advanced-opencart-theme
-Themeforest Journal Advanced Opencart Theme
+J2-Theme-Installation for Opencart
